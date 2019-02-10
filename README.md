@@ -1,1 +1,1 @@
-# ORM
+# ORMLite framework implementation
